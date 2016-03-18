@@ -1,0 +1,23 @@
+{
+  "name": "generator-nbextensions",
+  "version": "1.0.0",
+  "description": "A Yeoman generator for creating a template for Jupyter Notebook extensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captainsafia/generator-nbextensions.git"
+  },
+  "keywords": [
+    "jupyter",
+    "extensions"
+  ],
+  "author": "Safia Abdalla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/captainsafia/generator-nbextensions/issues"
+  },
+  "homepage": "https://github.com/captainsafia/generator-nbextensions#readme"
+}
